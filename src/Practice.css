@@ -1,0 +1,40 @@
+.AppPractice {
+    text-align: left;
+}
+
+.App-logoPractice {
+    height: 40vmin;
+    pointer-events: none;
+    margin: 50px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .App-logoPractice {
+        animation: App-logo-spin infinite 10s linear;
+    }
+}
+
+.App-headerPractice {
+    background-color: #50c924;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    /* justify-content: center; */
+    font-size: calc(10px + 2vmin);
+    color: rgb(189, 40, 40);
+}
+
+.App-linkPractice {
+    color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(100deg);
+    }
+}
