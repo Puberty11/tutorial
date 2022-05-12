@@ -11,11 +11,11 @@ function Practice() {
         </p>
         <a
           className="App-link"
-          href="www.youtube.com"
+          href="https://youtube.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Xiao En
         </a>
       </header>
     </div>
